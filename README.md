@@ -2,11 +2,11 @@
 
 ## 👤 Author
 **Nguyễn Duy Ngọc**  
-Vietnam Nation University - Ho Chi Minh City (VNU-HCM) - University of Technology (HCMUT)
-Faculty of Electrical and Electronic Engineering - Department of Electronics Engineering
+Vietnam National University - Ho Chi Minh City (VNU-HCM) - University of Technology (HCMUT)
+Faculty of Electrical and Electronics Engineering - Department of Electronics Engineering
 
 ## 📄 Project Summary
-This project focuses on the design, implementation, simulation, and synthesis of a 5-stage pipelined processor conforming to the base RV32I Instruction Set Architecture (ISA). The design is verified using a comprehensive set of test programs, including hazard handling (stall and flush), and synthesized using Quartus Prime.
+This project focuses on the design, implementation, simulation, and synthesis of a 5-stage pipelined processor conforming to the base RV32I Instruction Set Architecture (ISA). The design is verified using a comprehensive set of test programs, including hazard handling (forwarding, stall, and flush), and synthesized using Quartus Prime.
 
 ## 📚 References
 - D. Harris and S. Harris, *Digital Design and Computer Architecture*, Morgan Kaufmann, 2012.
@@ -49,4 +49,5 @@ This processor implementation successfully achieves functional correctness and s
 - Extension toward full SoC integration with peripheral I/O
 
 ## 🌐 Repository Link
-[https://gitlab.com/duyngoc131004/CapstoneProject1](https://gitlab.com/duyngoc131004/CapstoneProject1)
+- GitLab: https://gitlab.com/duyngoc131004/CapstoneProject1
+- GitHub: https://github.com/ndNgoc1310/CapstoneProject1
